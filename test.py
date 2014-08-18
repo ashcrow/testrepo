@@ -1,8 +1,7 @@
+# bad
 
-#bad
 def test(a):
     print "ASD"
 
 
-
-#alsobad
+# alsobad
